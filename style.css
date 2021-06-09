@@ -221,10 +221,6 @@ body {
     padding: 76px 0 0 0;
 }
 
-.help * {
-    transition: 1s;
-}
-
 .help__title {
     text-align: center;
     margin: 0 0 24px 0;
